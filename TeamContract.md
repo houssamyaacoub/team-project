@@ -55,6 +55,6 @@ All members agree to provide honest and fair peer evaluations.
 
 By signing below, we acknowledge that we have read, discussed, and agreed to these terms. We understand that this contract is binding for the duration of the course and may be revised with the agreement of all team members.
 
-Team Member Signatures:
+Team Member Signatures: 
 
-Houssam Yaacoub, Mehmet Yunus (John) Sakalli , Yaodong Chen, Junho Yoon
+Houssam Yaacoub, Mehmet Yunus (John) Sakalli , Yaodong Chen, Junho Yoon, Alen Borangali
