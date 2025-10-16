@@ -57,4 +57,4 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 Team Member Signatures:
 
-Houssam Yaacoub, Mehmet Yunus (John) Sakalli , Yaodong Chen
+Houssam Yaacoub, Mehmet Yunus (John) Sakalli , Yaodong Chen, Junho Yoon
